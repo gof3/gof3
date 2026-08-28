@@ -1,4 +1,4 @@
-![|400](https://i.pinimg.com/1200x/cb/ee/7c/cbee7c7c136c5d2473bf03b36c92dc00.jpg)
+![](https://i.pinimg.com/1200x/cb/ee/7c/cbee7c7c136c5d2473bf03b36c92dc00.jpg|400)
 
 # About
 
