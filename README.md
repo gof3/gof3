@@ -7,7 +7,7 @@
 ---
  # core skills
 
-- languages: python / javascript / sql
+- languages: python / javascript / sql / rust
 - backend: FastAPI / Django / REST APIs
 - databases: SQLite / PostgreSQL / MongoDB / Redis
 - tools: Git / Docker / Linux / Vite
