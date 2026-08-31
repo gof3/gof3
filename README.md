@@ -9,5 +9,6 @@
 
 - languages: python / javascript / sql / rust
 - backend: FastAPI / Django / REST APIs
+- frontend: React / Tailwind CSS
 - databases: SQLite / PostgreSQL / MongoDB / Redis
 - tools: Git / Docker / Linux / Vite
